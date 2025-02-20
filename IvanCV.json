@@ -1,0 +1,28 @@
+{
+	"Name": "Ivan Ruhal",
+	"Position": "QA Engineer",
+	"About": "Highly motivated QA Engineer with experience in software testing, bug tracking, and automation. Passionate about ensuring product quality and improving 	development processes.",
+	"Skills": ["EngB1", "Manual Testing", "Test Automation", "Bug Tracking", "Agile Methodologies"],
+	"Tools": ["Postman", "MySQL", "Apache JMeter", "Charles", "JIRA", "Git", "GitHub", "Sourcetree", "DevTools"],
+	"WorkHistory": [
+		{
+			"Company": "TechSoft Solutions",
+			"Position": "QA Engineer",
+			"DateOfWork": "01.2023 - Present",
+			"WorkDescription": "Performed manual and automated testing, created test cases, and collaborated with developers to improve software quality."
+		},
+		{
+			"Company": "WebDev Inc.",
+			"Position": "Junior QA Engineer",
+			"DateOfWork": "06.2021 - 12.2022",
+			"WorkDescription": "Executed test scripts, reported bugs, and assisted in regression testing for web applications."
+		}
+	],
+	"Education": [
+		{
+			"PlaceOfEducation": "BELHARD QA Engineer",
+			"Speciality": "Software Testing & Quality Assurance",
+			"DateOfEducation": "10.02.25 - 20.03.25"
+		}
+	]
+}
